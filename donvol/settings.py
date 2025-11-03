@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-qg#kuysx+&cm)jp#hv(j%uuel2jcp4*7u5@1zm79za=r+%)$0r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ngo-donation-system-fz8p.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
